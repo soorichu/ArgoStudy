@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soori.co.iml" filepath="$PROJECT_DIR$/.idea/modules/soori.co.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soori.co_main.iml" filepath="$PROJECT_DIR$/.idea/modules/soori.co_main.iml" group="soori.co" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soori.co_test.iml" filepath="$PROJECT_DIR$/.idea/modules/soori.co_test.iml" group="soori.co" />
+    </modules>
+  </component>
+</project>
